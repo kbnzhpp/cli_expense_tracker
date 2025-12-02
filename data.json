@@ -1,0 +1,13 @@
+{
+    "expenses": [
+        {
+            "amount": 4,
+            "day": 2,
+            "description": "dateTest",
+            "id": 16,
+            "month": 12,
+            "year": 2025
+        }
+    ],
+    "nextId": 17
+}
